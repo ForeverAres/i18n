@@ -1,23 +1,23 @@
 # i18n
 
-[![Run Tests](https://github.com/gin-contrib/i18n/actions/workflows/go.yml/badge.svg)](https://github.com/gin-contrib/i18n/actions/workflows/go.yml)
-[![CodeQL](https://github.com/gin-contrib/i18n/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/gin-contrib/i18n/actions/workflows/codeql-analysis.yml)
+[![Run Tests](https://github.com/ForeverAres/i18n/actions/workflows/go.yml/badge.svg)](https://github.com/ForeverAres/i18n/actions/workflows/go.yml)
+[![CodeQL](https://github.com/ForeverAres/i18n/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ForeverAres/i18n/actions/workflows/codeql-analysis.yml)
 [![codecov](https://codecov.io/gh/gin-contrib/i18n/branch/master/graph/badge.svg?token=QNMN3KM28Y)](https://codecov.io/gh/gin-contrib/i18n)
-[![GoDoc](https://godoc.org/github.com/gin-contrib/i18n?status.svg)](https://godoc.org/github.com/gin-contrib/i18n)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gin-contrib/i18n)](https://goreportcard.com/report/github.com/gin-contrib/i18n)
+[![GoDoc](https://godoc.org/github.com/ForeverAres/i18n?status.svg)](https://godoc.org/github.com/ForeverAres/i18n)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ForeverAres/i18n)](https://goreportcard.com/report/github.com/ForeverAres/i18n)
 
 ## Usage
 
 Download and install it:
 
 ```sh
-go get github.com/gin-contrib/i18n
+go get github.com/ForeverAres/i18n
 ```
 
 Import it in your code:
 
 ```go
-import ginI18n "github.com/gin-contrib/i18n"
+import ginI18n "github.com/ForeverAres/i18n
 ```
 
 Canonical example:
@@ -29,7 +29,7 @@ import (
   "log"
   "net/http"
 
-  ginI18n "github.com/gin-contrib/i18n"
+  ginI18n "github.com/ForeverAres/i18n"
   "github.com/gin-gonic/gin"
   "github.com/nicksnyder/go-i18n/v2/i18n"
 )
@@ -71,7 +71,7 @@ import (
   "log"
   "net/http"
 
-  ginI18n "github.com/gin-contrib/i18n"
+  ginI18n "github.com/ForeverAres/i18n"
   "github.com/gin-gonic/gin"
   "github.com/nicksnyder/go-i18n/v2/i18n"
   "golang.org/x/text/language"
@@ -119,7 +119,7 @@ import (
   "log"
   "net/http"
 
-  ginI18n "github.com/gin-contrib/i18n"
+  ginI18n "github.com/ForeverAres/i18n"
   "github.com/gin-gonic/gin"
   "github.com/nicksnyder/go-i18n/v2/i18n"
 )
